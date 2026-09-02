@@ -155,6 +155,7 @@ GitHub:
 https://github.com/sripriyancsbs
 
 ---
+Git pull practice on Linux
 
 ## ⭐ Support
 
